@@ -12,9 +12,12 @@ Tech Used:
 
 Features: <br>
 Top Headlines: Fetches and displays top news headlines from various sources.<br>
+<br
 Image Thumbnails: Shows thumbnail images along with news headlines and descriptions.<br>
+<br>
 Navigation: Allows users to navigate through news articles using 'Prev.' and 'Next.' buttons.<br>
-Read More: Provides a 'Read More' button to open the full news article in a web browser.<br>
+<br>
+<br>
 Error Handling: catching exceptions when trying to load images.if the image URL is not available, you might want to display a placeholder image or just skip displaying the image.<br>
 
 Button Disabling: Consider disabling the "Prev" button when you're at the first news item and the "Next" button when you're at the last news item. for providing better user experience and prevents unnecessary button clicks.<br>

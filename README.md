@@ -11,6 +11,7 @@ Tech Used:
 |__________________________________|
 
 Features: <br>
+<br>
 Top Headlines: Fetches and displays top news headlines from various sources.<br>
 <br>
 Image Thumbnails: Shows thumbnail images along with news headlines and descriptions.<br>

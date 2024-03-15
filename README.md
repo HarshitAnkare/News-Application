@@ -10,11 +10,16 @@ Tech Used:
 | python   | OOPs    | GUI(python) |
 |__________________________________|
 
-Error Handling: catching exceptions when trying to load images.if the image URL is not available, you might want to display a placeholder image or just skip displaying the image.
+Features: <br>
+Top Headlines: Fetches and displays top news headlines from various sources.<br>
+Image Thumbnails: Shows thumbnail images along with news headlines and descriptions.<br>
+Navigation: Allows users to navigate through news articles using 'Prev.' and 'Next.' buttons.<br>
+Read More: Provides a 'Read More' button to open the full news article in a web browser.<br>
+Error Handling: catching exceptions when trying to load images.if the image URL is not available, you might want to display a placeholder image or just skip displaying the image.<br>
 
-Button Disabling: Consider disabling the "Prev" button when you're at the first news item and the "Next" button when you're at the last news item. for providing better user experience and prevents unnecessary button clicks.
+Button Disabling: Consider disabling the "Prev" button when you're at the first news item and the "Next" button when you're at the last news item. for providing better user experience and prevents unnecessary button clicks.<br>
 
-Code Refactoring: "load_news_item" method is doing a lot of things. Consider breaking it down into smaller, more manageable functions for better code organization and readability.
+Code Refactoring: "load_news_item" method is doing a lot of things. Consider breaking it down into smaller, more manageable functions for better code organization and readability.<br>
 
 Requirements<br>
 Python 3.x <br>

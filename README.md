@@ -12,11 +12,10 @@ Tech Used:
 
 Features: <br>
 Top Headlines: Fetches and displays top news headlines from various sources.<br>
-<br
+<br>
 Image Thumbnails: Shows thumbnail images along with news headlines and descriptions.<br>
 <br>
 Navigation: Allows users to navigate through news articles using 'Prev.' and 'Next.' buttons.<br>
-<br>
 <br>
 Error Handling: catching exceptions when trying to load images.if the image URL is not available, you might want to display a placeholder image or just skip displaying the image.<br>
 

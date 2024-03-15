@@ -16,7 +16,7 @@ Button Disabling: Consider disabling the "Prev" button when you're at the first 
 Code Refactoring: "load_news_item" method is doing a lot of things. Consider breaking it down into smaller, more manageable functions for better code organization and readability.
 
 Requirements
-Python 3.x
-requests library
-PIL (Python Imaging Library)
+Python 3.x <br>
+requests library<br>
+PIL (Python Imaging Library)<br>
 Tkinter (usually comes pre-installed with Python)

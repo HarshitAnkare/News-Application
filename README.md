@@ -14,3 +14,9 @@ Error Handling: catching exceptions when trying to load images.if the image URL 
 Button Disabling: Consider disabling the "Prev" button when you're at the first news item and the "Next" button when you're at the last news item. for providing better user experience and prevents unnecessary button clicks.
 
 Code Refactoring: "load_news_item" method is doing a lot of things. Consider breaking it down into smaller, more manageable functions for better code organization and readability.
+
+Requirements
+Python 3.x
+requests library
+PIL (Python Imaging Library)
+Tkinter (usually comes pre-installed with Python)

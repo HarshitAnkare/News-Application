@@ -1,4 +1,5 @@
-# News-Application
+# News-Application<br>
+My News Application is a simple Python-based news application that fetches and displays top headlines from various sources using the News API. It provides an intuitive graphical user interface (GUI) built with Tkinter for easy navigation and reading of news articles.<br>
 This is a Quick current News Application to stay updated with the current affairs.
 <br>
 
@@ -15,7 +16,7 @@ Button Disabling: Consider disabling the "Prev" button when you're at the first 
 
 Code Refactoring: "load_news_item" method is doing a lot of things. Consider breaking it down into smaller, more manageable functions for better code organization and readability.
 
-Requirements
+Requirements<br>
 Python 3.x <br>
 requests library<br>
 PIL (Python Imaging Library)<br>
